@@ -49,7 +49,7 @@ cd contract-service
 
 
 ## Diagrama Entidad Relación de la base de datos
-![Image](https://github.com/user-attachments/assets/5536eff3-bef5-4ee9-a422-4db12760ec55)
+![Image](https://github.com/user-attachments/assets/601fcf18-25f8-43a7-9767-80369ea4ced8)
 
 
 
