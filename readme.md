@@ -6,26 +6,21 @@ Se encarga de la gestión de contrataciones de los jardineros por parte del clie
 
 
 ## ⚒ Tecnologías Utilizadas
-- Python: 3.10.6
-- Fast Api
-- SQLAlchemy
-- Pydantic
-- Uvicorn
-- Mysql
-- Docker: Para contenedores de servicios como Postgresql y Pgadmin
+- [Go](https://go.dev/)
+- Postgresql
+- Docker
 
 ## 🏗 Arquitectura Utilizada
 - n-Capas
 
 ## IDE Utilizado
-El proyecto se desarrolló utilizando Visual Studio Code como editor de código, pero también es compatible con otros IDEs como Pycharm.
+El proyecto se desarrolló utilizando Visual Studio Code como editor de código, pero también es compatible con otros editores o IDes.
 
 
 ## Requisitos Previos
 Contar con las siguientes herramientas antes de instalar el proyecto:
 
-- Python 3.10.6
-- pip 22.2.1 (Para la gestion de paquetes del proyecto)
+- Go version go1.17.5 windows/amd64
 - Docker (para postgres, pgadmin u otros servicios adicionales)
 - Git (para clonar el repositorio)
 
