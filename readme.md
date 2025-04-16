@@ -49,8 +49,7 @@ cd contract-service
 
 
 ## Diagrama Entidad Relación de la base de datos
-![Image](https://github.com/user-attachments/assets/601fcf18-25f8-43a7-9767-80369ea4ced8)
-
+![Image](https://github.com/user-attachments/assets/3644d57d-251a-4a9d-bf18-dba0005e4c79)
 
 
 ## API Endpoints
